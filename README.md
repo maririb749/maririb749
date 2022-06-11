@@ -1,25 +1,33 @@
 
-### Hi there 👋, Mi name is Mariana
-#### I am a Brazilian Technology student, living in Portugal.
-![I am a Brazilian Technology student, living in Portugal.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+## 👋 Hello! Welcome to my Github profile.
 
-I study Java, Javascript, CSS, HTML and much more...
+### My name is Mariana Santos and my nickname is "maririb749"!
 
-- 📫 How to reach me: maririb51@gmail.com 
+🌱 I'm currently learning Java, Javascript, C# and more...
+
+- 📫 Contact: email maririb51@gmail.com.
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maririb749)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/mariana-ribeiro-dos-santos-39562a22b/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=maririb749)](https://github.com/ryo-ma/github-profile-trophy)
+          
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maririb749)](https://github.com/anuraghazra/github-readme-stats)
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maririb749&show_icons=true)  
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maririb749)  
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-![GitHub metrics](https://metrics.lecoq.io/maririb749)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=maririb749)  
 
-![Profile views](https://gpvc.arturio.dev/maririb749)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+          
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+
+
+          
+
+
+
+
