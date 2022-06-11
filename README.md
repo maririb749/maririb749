@@ -1,5 +1,5 @@
 
-                                                           ##👋 Hello! Welcome to my Github profile.
+                                                         ##👋 Hello! Welcome to my Github profile.
 
                                                   ### My name is Mariana Santos and my nickname is "maririb749"!
 
