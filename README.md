@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mariana Santos</h1>
 <h3 align="center">A Brazilian technology student, living in Portugal.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maririb749&label=Profile%20views&color=0e75b6&style=flat" alt="maririb749" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maririb749" alt="maririb749" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -25,3 +22,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maririb749&show_icons=true&locale=en" alt="maririb749" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maririb749&" alt="maririb749" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maririb749&label=Profile%20views&color=0e75b6&style=flat" alt="maririb749" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maririb749" alt="maririb749" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
