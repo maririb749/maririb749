@@ -22,7 +22,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maririb749&show_icons=true&locale=en" alt="maririb749" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maririb749&" alt="maririb749" /></p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
