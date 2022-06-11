@@ -9,7 +9,7 @@
 
 
 
-  <div>
+   <div>
     <a href="https://github.com/maririb749">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maririb749&layout=compact&langs_count=7&theme=dracula"/>
   
@@ -17,9 +17,8 @@
   </div>
   
   
-  <div class="tenor-gif-embed" data-postid="23685199" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/wow-interesting-cool-busy-busy-cat-gif-23685199">Wow Interesting GIF</a>from <a href="https://tenor.com/search/wow-gifs">Wow GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-
+  
+<img src="assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif" alt="Gif de um gato cinza vestido de preto e azul sentado em um sofá em frente à uma mesa, onde tem um notebook que o mesmo está digitando extremamente rápido." class="cosmos-image">
 
 
 
