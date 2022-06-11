@@ -18,7 +18,7 @@
   
   
   <p align="center">
-  <div class="tenor-gif-embed" data-postid="12030261" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-computer-typing-working-funny-cats-gif-12030261">Cat Computer GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+     <div class="tenor-gif-embed" data-postid="12030261" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-computer-      typing-working-funny-cats-gif-12030261">Cat Computer GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript"          async src="https://tenor.com/embed.js"></script>
 </p>
 
 
