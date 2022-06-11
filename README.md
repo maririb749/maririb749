@@ -3,9 +3,9 @@
                                                       
   <h2 align="center">  My name is Mariana Santos and my nickname is "maririb749"! </h2>
                                                       
-   <h3> 🌱 I'm currently learning Java, HTML, CSS and more...  </h3                                                   
+   <h3>  📘  I am a technology student living in Portugal.  </h3                                                   
 
-                                              
+                                          
 
 
 
