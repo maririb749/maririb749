@@ -1,7 +1,11 @@
 
-                                                       ##👋 Hello! Welcome to my Github profile.
+                                                      <h1 align="center"> ##👋 Hello! Welcome to my Github profile. </h1>
+                                                      
+                                            <h2 align="center"> ### My name is Mariana Santos and my nickname is "maririb749"! </h2>
+                                                      
+                                                      
 
-                                              ### My name is Mariana Santos and my nickname is "maririb749"!
+                                              
 
 🌱 I'm currently learning Java, HTML, CSS and more...
 
@@ -18,7 +22,7 @@
   
   
   
-<img src="assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif" alt="Gif de um gato cinza vestido de preto e azul sentado em um sofá em frente à uma mesa, onde tem um notebook que o mesmo está digitando extremamente rápido." class="cosmos-image">
+
 
 
 
