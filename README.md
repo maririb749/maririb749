@@ -1,12 +1,16 @@
 
   <h1 align="center"> 👋 Hello! Welcome to my Github profile. </h1>
+  
                                                       
   <h2 align="center">  My name is Mariana Santos and my nickname is "maririb749"! </h2>
+  
+  
+  <div>
+    <h3 align="center">📘 I'm learning programming language and I'm enjoying it! :</h3>
+  </div>
                                                       
-   <h3>  📘  I am a technology student living in Portugal.  </h3   
-  
-  
  
+  
 
 
   <div>
