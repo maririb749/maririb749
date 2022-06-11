@@ -1,7 +1,7 @@
 
-                                                      <h1 align="center"> ##👋 Hello! Welcome to my Github profile. </h1>
+  <h1 align="center"> ##👋 Hello! Welcome to my Github profile. </h1>
                                                       
-                                            <h2 align="center"> ### My name is Mariana Santos and my nickname is "maririb749"! </h2>
+  <h2 align="center"> ### My name is Mariana Santos and my nickname is "maririb749"! </h2>
                                                       
                                                       
 
