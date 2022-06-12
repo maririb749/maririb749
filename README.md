@@ -6,7 +6,7 @@
   
   
   <div>
-    <h3 align="center">📘 I'm learning programming language and I'm enjoying it! :</h3>
+    <h3 align="center">📘 I'm learning programming language and I'm enjoying it! </h3>
   </div>
                                                       
  
