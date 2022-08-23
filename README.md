@@ -22,9 +22,9 @@
 
   <h2>Projetos</h2>
   
-  <a href="https://github.com/maririb749/Ds-movie" target="_blank">DsMeta</a>
+  <a href="https://github.com/maririb749/Ds-movie" target="_blank">DsMovie</a>
   
-  <a href="https://github.com/maririb749/Ds-movie" target="_blank">DsMeta</a>
+  <a href="https://github.com/maririb749/dsmeta" target="_blank">DsMeta</a>
   
   
   
