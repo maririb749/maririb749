@@ -2,8 +2,6 @@
  
 ####
 
-
-
 <div align= "center">
   
   ### My name is Mariana Santos.I'm a backend developer and I'm loving more and more learning about the world of programming. :books:
