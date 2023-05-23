@@ -20,9 +20,13 @@
   
 </div> 
 
+
+ <img align="right" alt=" GIF" src="https://github.com/maririb749/maririb749/assets/85500087/46eddf9e-33ea-432c-88fa-4331a711d258"  width="170" />
+
 ####
 
 ###  ***Connect with me***<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
 
 ####
 
@@ -30,7 +34,6 @@
 <a href="https://www.linkedin.com/in/mariana-santos-39562a22b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:contato@maririb749"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
  </div>
  
- <img align="right" alt=" GIF" src="https://github.com/maririb749/maririb749/assets/85500087/46eddf9e-33ea-432c-88fa-4331a711d258"  width="170" />
  
 
 ####
