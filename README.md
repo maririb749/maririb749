@@ -12,13 +12,7 @@
 
 ###
 
-<div align= "left">
-  
-[![Profile views](https://komarev.com/ghpvc/?username=maririb749)](https://github.com/maririb749)
 
-
-  
-</div> 
 
 ###
 
