@@ -12,6 +12,10 @@
 
 ####
 
+ <img align="right" alt=" GIF" src="https://github.com/maririb749/maririb749/assets/85500087/46eddf9e-33ea-432c-88fa-4331a711d258"  width="170" />
+
+####
+
 
 <div align= "left">
   
@@ -19,11 +23,6 @@
 
   
 </div> 
-
-
- <img align="right" alt=" GIF" src="https://github.com/maririb749/maririb749/assets/85500087/46eddf9e-33ea-432c-88fa-4331a711d258"  width="170" />
-
-####
 
 ###  ***Connect with me***<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
