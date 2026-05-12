@@ -1,4 +1,4 @@
- ![cover](https://github.com/maririb749/maririb749/assets/85500087/bbdc8787-7a7a-401f-a2fd-c0b86e4acc6d)
+
  
 ####
 
@@ -19,7 +19,7 @@
   
 </div> 
 
-###  ***Connect with me***<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
 
 
 ####
