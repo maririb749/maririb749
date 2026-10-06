@@ -1,81 +1,36 @@
+# Hi, I'm Mariana Santos 👋
 
- 
-####
+**Junior QA Tester** based in Rotterdam, Netherlands 🇳🇱
 
-<div align= "center">
-  
- ## <img src="https://github.com/maririb749/maririb749/assets/85500087/75d62f63-560b-4c5b-8f31-263a3dd9ff12" width="30px"> ***My name is Mariana Santos.I'm a backend developer and I'm loving more and more learning about the world of programming***. :books:
- 
- ####
-  
-</div> 
+I test web applications, APIs and databases — combining manual test design, bug reporting and test automation.
+I enjoy finding the edge cases that others miss: in my ParaBank project I found that the app accepted **negative transfer amounts** and **transfers above the available balance**.
 
+---
 
+## 🧪 QA Portfolio
 
-<div align= "left">
-  
-[![Profile views](https://komarev.com/ghpvc/?username=maririb749)](https://github.com/maririb749)
+| Project | What it shows | Tools |
+|---|---|---|
+| [**ParaBank QA Project**](https://github.com/maririb749/ParaBank-QA-Project) | Demo banking app: 15 manual test cases, 3 documented bugs, exploratory, accessibility and responsive testing, UI automation | Cypress, Page Objects, GitHub Actions |
+| [**SauceDemo QA Portfolio**](https://github.com/maririb749/qa-saucedemo-testing-portfolio) | E-commerce app: 43 manual test cases with evidence, risk-based testing, cross-browser automation | Playwright, JavaScript, GitHub Actions |
+| [**Reqres API Testing**](https://github.com/maririb749/qa-reqres-api-testing-portfolio) | REST API: 63 requests, positive, negative, boundary and contract tests | Postman, Newman, GitHub Actions |
+| [**Sakila Database QA**](https://github.com/maririb749/sakila-database-qa-sql) | Database testing: 22 SQL test cases, data integrity and business rules, automated regression | MySQL, SQL, Python, pytest |
 
-  
-</div> 
+---
 
+## 🛠️ Skills
 
+**Testing:** manual testing · test planning · test case design · bug reporting · exploratory testing · regression testing · risk-based testing · traceability
 
+**Automation:** Cypress · Playwright · Postman / Newman · pytest
 
-####
-
-<div align ="left">
-<a href="https://www.linkedin.com/in/mariana-santos-39562a22b/"(https://www.linkedin.com/in/mariana-santos2322/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:contato@maririb749"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
- </div>
- 
- 
-
-####
-
-  
-###  <h3 align="left">***Languages and Tools***:</h3>
+**Technical:** SQL (MySQL) · JavaScript · Python (basic) · Java & JUnit (course projects) · Git · GitHub Actions (CI)
 
 
+---
 
-   <div align ="left">
-    <a href="https://github.com/maririb749">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maririb749&layout=compact&langs_count=7&theme=dark"/> <img height="150em"src="https://github-readme-stats.vercel.app/api?username=maririb749&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   </div>
- 
- ####
- 
- ###  ***Projects***<img align="right" alt="PC GIF" src="https://github.com/maririb749/maririb749/assets/85500087/aed93e08-7664-40b6-9eab-444773864d9a" width="170" />
- 
- ####
- 
-  🔭 [DsCommerce](https://github.com/maririb749/dscommerce1)
- ###
- 
-  🔭 [DsList](https://github.com/maririb749/dslist)
- 
-###
- 
-  🔭 [DsMeta](https://github.com/maririb749/dsmeta)
+## 🌍 Languages
+Portuguese (native) · English · Dutch (learning)
 
-  ###
-
-  🔭 [Workshopmongodb](https://github.com/maririb749/workshopmongodb/tree/main)
-
-  
-
- 
-   
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/mariana-santos-39562a22b/) · maririb51@gmail.com
